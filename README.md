@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @KhronicDemon
+- 👀 I’m interested in Development and Graphics Design
+- 🌱 I’m currently learning C# Unity to create mobile games
+
+- 📫 How to reach me ...
+
+Contact me on FACEBOOK:
+Contact me on DISCORD:
+
+
+ALL MY WORK IS NOT TO BE USED FOR RESALE AND I MUST BE ASKED BEFORE ANY OF MY WORK CAN BE PUBLISHED, ALL MY WORK IS PROTECTED WITH A LISENCE AGREEMENT AND COPYRIGHT STANDARDS.
+YOU CAN CONTACT ME FURTHER FOR ANY BUGGS OR ERRORS WITHIN MY APPLICATION AND I WILL BE HAPPY TO ASSIST.
+
+<!---
+THIS IS A READ ME FILED AND IS ALSO ACTING AS A COPYRIGHT ACT OF 2021
+--->
